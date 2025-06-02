@@ -18,6 +18,5 @@ def delete_bucket(bucket_name):
     response.delete()
     return
 
-delete_bucket('sample-boto3-bucket-python')
+delete_bucket('boto3-bucket2-02062025')
 
-##

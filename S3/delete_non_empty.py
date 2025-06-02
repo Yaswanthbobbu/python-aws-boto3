@@ -14,4 +14,3 @@ clean_up('sample-boto3-bucket-python')
 
 bucket.delete('sample-boto3-bucket-python')
 
-##
